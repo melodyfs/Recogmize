@@ -8,10 +8,12 @@ After a month of studying, out of boredom, I decided to turn all the python code
 
 ## Pre-Trained Models
 Models were mainly built with Keras, NumPy, and sklearn. Then they were converted to CoreML models with CoreMl Tools.
-- Mnist (NN and CNN)
-- Cifar10 (CNN)
-- Hiragana (CNN)
-- Katakana (CNN)
-- Fruits: Inception V3 Model + layers of Neural Nets
+- Mnist (OCR - Optical Character Recognition)
+- Cifar10 (Image Classifiers)
+- Hiragana (OCR)
+- Katakana (OCR)
+- Fruits: Inception V3 Model + layers of Neural Nets (Image Classifiers)
 
+## Play with the models
+It's live on the [App Store](http://bit.ly/recogmize)!
 
