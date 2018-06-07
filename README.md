@@ -9,7 +9,7 @@ I am very enthusiastic about deep learning. I explored and learned it in my spar
 After a month of studying, out of boredom, I decided to turn all the python code into an iOS app for fun.
 
 ## Pre-Trained Models
-Models were mainly built with Keras, NumPy, and sklearn. Then they were converted to CoreML models with CoreMl Tools.
+Models were mainly constructed with Keras, NumPy, and sklearn. Then they were converted to CoreML models with CoreMl Tools.
 - Mnist (OCR - Optical Character Recognition)
 - Cifar10 (Image Classifiers)
 - Hiragana (OCR)
