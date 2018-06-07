@@ -1,3 +1,5 @@
+[<img src="https://github.com/melodyfs/Recogmize/blob/master/Mnist/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png" width="150" height="150" />](http://bit.ly/recogmize)
+
 # Recogmize
 A showcase of deep learning projects I built.
 
